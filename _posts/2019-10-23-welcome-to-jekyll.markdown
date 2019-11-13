@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Enas' site!"
 date:   2019-10-23 15:56:34 +0200
 categories: jekyll update
 ---
