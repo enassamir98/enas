@@ -21,9 +21,9 @@
 title: Enas Samir
 email: enas.samir98@gmail.com
 description: # this means to ignore newlines until "baseurl:"
-The things in the world that I love most include safaris,
+"The things in the world that I love most include safaris,
  snow, scuba diving, bungee jumping.
- SBME-2021 || Capricorn 
+ SBME-2021 || Capricorn "
 baseurl: "enas" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: enassamir97
