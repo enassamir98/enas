@@ -21,7 +21,7 @@
 title: Enas Samir
 email: enas.samir98@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-The things in the world that I love most include safaris,
+   The things in the world that I love most include safaris,
  snow, scuba diving, bungee jumping.
  SBME-2021 || Capricorn 
 baseurl: "enas" # the subpath of your site, e.g. /blog
@@ -34,6 +34,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
